@@ -14,7 +14,7 @@ This video course teaches you how to make a 3D printer for yourself and calibrat
 <LI>Explore KISSlicer and Cura path generator
 <LI>Experiment with alternative solutions and software
 <LI>Troubleshoot and prevent printing problems with ease
-<LI></LI></UL></DIV>
+</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
